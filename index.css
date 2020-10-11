@@ -1,0 +1,24 @@
+body,head{
+background-color : pink;
+}
+
+h1,h3{
+text-align : center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100dp;
+}
+
+.btn{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1:hover{
+font-family : holiday;
+}
